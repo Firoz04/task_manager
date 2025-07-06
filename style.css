@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+}
+
+.main-section {
+    margin: 20px auto;
+    width: 60vw;
+}
+
+.single-task {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tasks-box {
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button {
+
+    font-size: 16px;
+    padding: 10px 32px;
+    border: 2px solid #04AA6D;
+}
